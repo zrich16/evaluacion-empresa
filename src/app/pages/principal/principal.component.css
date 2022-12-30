@@ -1,0 +1,30 @@
+div.round1 {
+    border: 2px solid  #2ecc71;
+    width: 1700px;
+    border-radius: 12px;
+    padding: 5px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  div.round1 {
+    border: 2px solid  #2ecc71;
+    border-radius: 12px;
+    padding: 5px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+
+  div.round2 {
+    width: 1300px;
+    border: 2px solid  #2ecc71;
+    border-radius: 12px;
+    padding: 5px;
+
+  }
+
+  img.l{
+width: 30px;
+height: 30px;
+  }
